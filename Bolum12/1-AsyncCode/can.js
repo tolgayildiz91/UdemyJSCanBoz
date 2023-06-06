@@ -2,7 +2,7 @@ console.log(1);
 console.log(2);
 
 setTimeout(() => {
-  console.log('Can Boz');
+  console.log('Tolga Yıldız');
 }, 2000);
 
 console.log(3);
